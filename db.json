@@ -1,0 +1,44 @@
+{
+  "user-data": [
+    {
+      "id": "1",
+      "email": "user-1@gamil.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2",
+      "email": "user-2@gamil.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3",
+      "email": "user-3@gamil.com",
+      "password": "123456789"
+    },
+    {
+      "id": "4",
+      "email": "user-4@gamil.com",
+      "password": "123456789"
+    },
+    {
+      "id": "5",
+      "email": "user-5@gamil.com",
+      "password": "123456789"
+    },
+    {
+      "id": "6",
+      "email": "user-6@gamil.com",
+      "password": "123456789"
+    },
+    {
+      "id": "7",
+      "email": "user-7@gamil.com",
+      "password": "123456789"
+    },
+    {
+      "id": "8",
+      "email": "user-123456@gamil.com",
+      "password": "0987654321"
+    }
+  ]
+}
